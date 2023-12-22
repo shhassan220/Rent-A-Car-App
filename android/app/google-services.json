@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508697481349",
+    "project_id": "pny-firebase",
+    "storage_bucket": "pny-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508697481349:android:30f911820263ddd1fe59ec",
+        "android_client_info": {
+          "package_name": "com.example.pny_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuAsEkmJery5ajsvrdhRCGS6iXyukbfVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
